@@ -1,11 +1,9 @@
-package day1;
+package JAN_26;
 
-public class program_HelloWorld {
+public class GCD_LCM_COPRIME {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		System.out.println("WELCOME");
 
 	}
 
